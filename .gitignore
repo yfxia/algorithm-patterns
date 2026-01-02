@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# PyCharm / IDE settings (Keep these local)
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
